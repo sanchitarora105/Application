@@ -1,0 +1,362 @@
+.button4 {background-color: #e7e7e7; color: black;
+  padding: 6px 15px;
+  border-radius: 12px;} /* Gray */
+.button5 {background-color: #555555;
+  padding: 6px 15px;
+  color: white;
+  border-radius: 12px;} /* Black */
+
+
+.x2{
+  text-align: center;
+}
+
+#press{
+text-align: center;}
+
+  .press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+  }
+.x1{
+  text-align:center;
+padding-left: 150px;
+padding-right: 150px;
+}
+
+
+.x5{
+  background-color: #f7f7f7;
+  padding-bottom: 30px;
+}
+
+.x4{
+  text-align: center;
+padding-bottom: 10px;
+padding-top: 10px;}
+
+.x6{
+  background-color: #84a9ac;
+}
+.x7{
+  text-align:center;
+}
+.x22{
+  background-color: #e4e3e3;
+}
+
+h6{
+  width: 400px;
+}
+
+#features {
+  position: relative;
+background-color: #f3ecc2
+}
+
+#features2 {
+  position: relative;
+background-color: #f3ecc2;
+padding-right: 130px;
+padding-left: 130px;
+}
+.white-section {
+text-align: center;
+background-color: #fff;
+}
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+#wrapper ul{
+  list-style: none;
+}
+
+#wrapper ul li{
+  font-size: 20px;
+  background-image: url('clock.png');
+background-repeat:no-repeat;
+background-position: left 50%;
+padding-left: 80px;}
+
+.x11{
+   border-left-style: solid;
+   opacity: 50%;
+
+}
+.x13{
+  text-align: center;
+}
+.x20{
+  text-align: center;
+}
+.switch-field {
+
+	margin-bottom: 36px;
+	overflow: hidden;
+  text-align: center;}
+
+.switch-field input {
+	position: absolute !important;
+	clip: rect(0, 0, 0, 0);
+	height: 1px;
+	width: 1px;
+	border: 0;
+	overflow: hidden;
+    text-align: center;
+}
+
+.switch-field label {
+	background-color: #e4e4e4;
+	color: rgba(0, 0, 0, 0.6);
+	font-size: 14px;
+  border-radius: 20px;
+	line-height: 1;
+	text-align: center;
+	padding: 8px 16px;
+	margin-right: -1px;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+	transition: all 0.1s ease-in-out;
+  text-align: center;
+}
+
+.switch-field label:hover {
+    text-align: center;
+	cursor: pointer;
+}
+
+.switch-field input:checked + label {
+	background-color: grey;
+	box-shadow: none;
+  text-align: center;}
+
+.switch-field label:first-of-type {
+	border-radius: 4px 0 0 4px;
+  text-align: center;}
+
+.switch-field label:last-of-type {
+	border-radius: 0 4px 4px 0;
+  text-align: center;}
+
+/* This is just for CodePen. */
+
+.form {
+	max-width: 600px;
+	font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+	font-weight: normal;
+	line-height: 1.625;
+	margin: 8px auto;
+	padding: 16px;
+  text-align: center;
+}
+#x16{
+  text-align: center;
+}
+h2 {
+	font-size: 18px;
+	margin-bottom: 8px;
+}
+
+#pricing {
+  padding: 100px;
+}
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+/*
+.pricing-column {
+  padding: 3% 2%;
+} */
+.x19{
+  text-align: center;
+}
+.faq {
+  padding: 60px 0;
+  background-color: #4b5d67;
+}
+.faq .faq-list {
+  padding: 0;
+  list-style: none;
+}
+.faq .faq-list li {
+    background-color: GREY;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding: 10px 40px;
+}
+.faq .faq-list a {
+    display: block;
+    position: relative;
+    font-size: 16px;
+    font-weight: 600;
+    color: BLACK;
+    text-decoration: none;
+}
+
+.faq .faq-list i {
+  font-size: 16px;
+  position: absolute;
+  left: -25px;
+  top: 6px;
+  transition: 1s;
+}
+
+
+#section5{
+    width: 80%;
+    margin: auto;
+}
+
+.info5{
+    width: 90%;
+    margin: auto;
+}
+
+.main5{
+    width: 90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.gallery5{
+    display: grid;
+    grid-gap: 1em;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.card5{
+    text-align: start;
+    padding: 10px;
+}
+
+.card5 h4{
+    margin: 10px 0;
+}
+
+.image5 img{
+    float: right;
+    max-width: 90%;
+}
+
+.main5 a,
+.main5 a:hover{
+    text-align: center;
+    color: white;
+    background-color: blue;
+    border-radius: 50px;
+    text-decoration: none;
+    padding: 10px 30px;
+}
+
+@media only screen and (max-width:928px){
+    .gallery5{
+        width: 100%;
+    }
+    .info5 h2{
+        font-size: 1.5em;
+    }
+    .card5{
+        width: 100%;
+    }
+    .card5 h4{
+        font-size: medium !important;
+    }
+    .main5{
+        width: 100%;
+    }
+
+    .card5{
+        text-align: center;
+        padding: 10px;
+    }
+}
+
+@media only screen and (max-width:1120px){
+    .main5{
+        width: 100%;
+        margin: auto;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .x3{max-width: 100%;
+
+    height: auto;
+    }
+    .image5 img{
+        float: none;
+    }
+    .image5{
+        text-align: center;
+    }
+
+}
+
+
+
+
+
+.faq-title {
+    text-align: center;
+    font-size: 17px;
+    border-bottom: 2px dashed #ffffff;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+    color: #ffffff;
+}
+
+.faq .faq-list p {
+  padding-top: 5px;
+  margin-bottom: 20px;
+  font-size: 15px;
+}
+
+.collapsed i.fas.fa-arrow-up {
+    transform: rotate(180deg);
+}
+.X18{
+  max-width: 100%;
+
+  height: auto;
+}
+.x19{
+  text-align: center;
+padding-top: 100px;}
+
+.social-icon {
+  margin: 20px 10px;
+}
+.footer1{
+  text-align: center;
+}
+#footer{
+  background-color: #ddf3f5;
+}
+span{
+  color: orange;
+}
+.x21{
+
+  width: 210px;
+  border-radius: 20px;
+  background-color: #ddf3f5;
+  color: black;;
+  padding-left: 10px;
+  margin-left: 20px;
+margin-bottom: 10px}
